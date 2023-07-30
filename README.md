@@ -3,4 +3,4 @@ This is not a full-functional website, it is only figma prototyping. This intera
 Here is the link of Tourism project "https://www.figma.com/community/file/1265219455326664832", you can open files in figma to edit it.
 Here is a short video showing prototype running:
 
-https://github.com/FazilaRubab/Tourism--Prototyping/assets/51526391/8486df30-eaf8-43c6-8731-b41ade42005b
+https://github.com/FazilaRubab/Tourism--Prototyping/assets/51526391/271e8930-7320-4a19-80b3-ac42f89bb24c
